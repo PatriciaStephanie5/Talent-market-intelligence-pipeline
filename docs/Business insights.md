@@ -52,4 +52,4 @@ Top candidates consistently score **87–89**, enabling efficient prioritization
 - Clean, scored dataset ready for Clay + n8n automation
 
 **Project Date:** Q1 2026  
-Delivered as Freelance GTM Data Specialist
+Delivered as Freelance GTM Data Specialist.
